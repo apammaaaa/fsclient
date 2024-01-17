@@ -1,0 +1,20 @@
+<root>
+    <showLs>
+        <text>CHANNEL_OUTGOING</text>
+        <text>CHANNEL_STATE</text>
+        <text>CHANNEL_CREATE</text>
+        <text>CHANNEL_ORIGINATE</text>
+        <text>CHANNEL_PROGRESS_MEDIA</text>
+        <text>CHANNEL_EXECUTE_COMPLETE</text>
+        <text>CHANNEL_CALLSTATE</text>
+        <text>CHANNEL_EXECUTE</text>
+        <text>CHANNEL_HANGUP</text>
+        <text>CHANNEL_DESTROY</text>
+        <text>CALL_UPDATE</text>
+        <text>CODEC</text>
+        <text>API</text>
+        <text>BACKGROUND_JOB</text>
+        <text>HEARTBEAT</text>
+        <text>RE_SCHEDULE</text>
+    </showLs>
+</root>
